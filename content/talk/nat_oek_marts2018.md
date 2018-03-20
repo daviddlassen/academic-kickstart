@@ -20,7 +20,7 @@ projects = ["sodas"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "files/bigdata_natøk_19032018.pdf"
 url_video = ""
 url_code = ""
 

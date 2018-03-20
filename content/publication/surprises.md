@@ -35,7 +35,7 @@ selected = false
 projects = ["polecon", "cebi"]
 
 # Links (optional).
-url_pdf = "Surprises_Stanford_clean.pdf"
+url_pdf = "files/Surprises_Stanford_clean.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

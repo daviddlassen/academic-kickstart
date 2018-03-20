@@ -35,7 +35,7 @@ selected = false
 projects = ["polecon"]
 
 # Links (optional).
-url_pdf = "Irresponsible_Parties_February_2018.pdf"
+url_pdf = "files/Irresponsible_Parties_February_2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
