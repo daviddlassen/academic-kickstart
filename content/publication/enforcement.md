@@ -47,7 +47,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal", url = "https://doi.org/10.1093/jleo/ews036"}]
+url_custom = [{name = "Journal page", url = "https://doi.org/10.1093/jleo/ews036"}]
 
 # Does the content use math formatting?
 math = true
@@ -62,4 +62,4 @@ highlight = true
 # caption = "Included cases in Danish social networks"
 
 +++
-Presented at: 
+Presented at:

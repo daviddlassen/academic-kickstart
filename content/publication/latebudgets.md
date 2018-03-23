@@ -1,6 +1,6 @@
 +++
 title = "The impact of late budgets on state government borrowing costs"
-date = "2014-01-28"
+date = "2012-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Asger L. Andersen", "David D. Lassen", "Lasse Holbøll Westh Nielsen"]
@@ -17,11 +17,11 @@ authors = ["Asger L. Andersen", "David D. Lassen", "Lasse Holbøll Westh Nielsen
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Public Economics 109"
-publication_short = "JPubE"
+publication = "American Economic Journal: Economic Policy 4(4)"
+publication_short = "AEJ-EP"
 
 # Abstract and optional shortened version.
-abstract = "We analyze how a key component of fiscal governance, the ability of governments to pass a budget on time, affects government bond yield spreads. Based on a sample of 36 US states from 1988 to 1997, and using an original data set on budget enactment dates, we estimate that a 30 day budget delay has a cumulative impact that is equivalent to a one-time increase in the yield spread of around 10 basis points. States with sufficient liquidity incur no costs from late budgets, while unified governments face large penalties from not finishing a budget on time."
+abstract = "The budget forms the legal basis for government spending, and timely budgets, enacted before the new fiscal year, are an integral part of good governance. This paper examines the causes of late budgets using a unique dataset of budget completion dates for US state governments 1988-2007, constructed from news reports and state budget office surveys. We find 23 percent of state budgets to be late. We show that changing economic circumstances and divided government are the driving forces behind late budgets, which is consistent with a war-of-attrition bargaining model featuring budget baselines and preferences over deviations from such baselines."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -47,7 +47,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal page", url = "https://www.sciencedirect.com/science/article/abs/pii/S0047272713001953"}]
+url_custom = [{name = "Journal page", url = "https://www.aeaweb.org/articles?id=10.1257/pol.4.4.1"}]
 
 # Does the content use math formatting?
 math = true
