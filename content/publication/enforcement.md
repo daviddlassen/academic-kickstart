@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*The Journal of Law, Economics, and Organization* 30(2)"
-publication_short = "JLEO"
+publication_short = "*JLEO*"
 
 # Abstract and optional shortened version.
 abstract = "We use panel data on corruption convictions, new panels of assistant US Attorneys and relative public sector wages, and careful attention to the consequences of modeling endogeneity to estimate the impact of prosecutorial resources on criminal convictions of those who undertake corrupt acts. Consistent with “system capacity” arguments, we find that greater prosecutor resources result in more convictions for corruption, other things equal. By explicitly determining the allocation of prosecutorial resources endogenously from partisan and administrative considerations, we show that this specification leads to larger estimates of the effect of resources on convictions. We also control for and confirm in a panel context the effects of many previously identified correlates and causes of corruption. We find more limited, recent evidence for the deterrent effect of increased prosecutions. The results are robust to various ways of measuring the number of convictions as well as to various estimators."

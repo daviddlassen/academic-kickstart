@@ -17,8 +17,8 @@ authors = ["Asger L. Andersen", "David D. Lassen", "Lasse Holbøll Westh Nielsen
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Public Economics 109"
-publication_short = "JPubE"
+publication = "*Journal of Public Economics* 109"
+publication_short = "*JPubE*"
 
 # Abstract and optional shortened version.
 abstract = "We analyze how a key component of fiscal governance, the ability of governments to pass a budget on time, affects government bond yield spreads. Based on a sample of 36 US states from 1988 to 1997, and using an original data set on budget enactment dates, we estimate that a 30 day budget delay has a cumulative impact that is equivalent to a one-time increase in the yield spread of around 10 basis points. States with sufficient liquidity incur no costs from late budgets, while unified governments face large penalties from not finishing a budget on time."

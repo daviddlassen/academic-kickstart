@@ -17,8 +17,8 @@ authors = ["James E. Alt", "David Dreyer Lassen", "Joachim Wehner"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "British Journal of Political Science 44(4)"
-publication_short = "BJPS"
+publication = "*British Journal of Political Science 44(4)*"
+publication_short = "*BJPS*"
 
 # Abstract and optional shortened version.
 abstract = "This article analyzes the political origins of differences in adherence to the fiscal framework of the European Union (EU). It shows how incentives to use fiscal policy for electoral purposes and limited budget transparency at the national level, combined with the need to respond to fiscal rules at the supranational level, interact to systematically undermine the Economic and Monetary Union through the employment of fiscal gimmicks or creative accounting. It also explains in detail how national accounts were manipulated to produce electoral cycles that were under the radar of the EU budget surveillance system, and concludes with new perspectives on the changes to (and challenges for) euro area fiscal rules."
@@ -47,7 +47,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal", url = "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/it-isnt-just-about-greece-domestic-politics-transparency-and-fiscal-gimmickry-in-europe/87D7AADF65ABE4D8D1C37F2572979275"}]
+url_custom = [{name = "Journal page", url = "https://www.cambridge.org/core/journals/british-journal-of-political-science/article/it-isnt-just-about-greece-domestic-politics-transparency-and-fiscal-gimmickry-in-europe/87D7AADF65ABE4D8D1C37F2572979275"}]
 
 # Does the content use math formatting?
 math = true

@@ -17,7 +17,7 @@ authors = ["Valentin Kassarnig", "Andreas Bjerre-Nielsen", "Enys Mones", "Sune L
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "PLOS ONE 12(11)"
+publication = "*PLOS ONE* 12(11)"
 # publication_short = ""
 
 # Abstract and optional shortened version.

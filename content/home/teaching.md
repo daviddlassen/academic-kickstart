@@ -15,8 +15,8 @@ weight = 60
 
 +++
 
-I am responsible for [Social Data Science](https://abjer.github.io/sds) and [Topics in Social Data Science](https://github.com/abjer/tsds/wiki), offered in the Economics department, but available for all social science with a quantitative background. These courses introduce and apply data science methods, incl. applied machine learning, in a social science context. They are Python-based.
+I am responsible for [Social Data Science](https://abjer.github.io/sds) and [Topics in Social Data Science](https://github.com/abjer/tsds/wiki), offered in the Economics department, but available for all social science students with a quantitative background. These courses introduce and apply data science methods, incl. applied machine learning, in a social science context. They are Python-based.
 
-Earlier, I have taught Political Economics, Public Expenditure Policy, and Advanced Undergraduate Micro, as well as seminars topics such as Political Economics, Public Economics, and Economics of the Media.
+Earlier, I have taught Political Economics, Public Expenditure Policy, and Advanced Undergraduate Micro, as well as seminars on topics such as Political Economics, Public Economics, Economics of Conflict and Economics of the Media.
 
 I supervise Master's theses in Social Data Science (incl. applied machine learning), Political Economics, Behavioral Economics, and Public Economics. Please feel free to contact me on thesis topics.   

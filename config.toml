@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "University of Copenhagen", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "DavidLassen.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "ddl@econ.ku.dk"
   address = "35.2.22, CSS, University of Copenhagen"
   office_hours = ""
@@ -246,14 +246,14 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+    name = "Current research"
+    url = "#current"
+    weight = 2
+
+[[menu.main]]
   name = "Publications"
 #  url = "#publications_selected"
   url = "#publications"
-  weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
   weight = 3
 
 [[menu.main]]
