@@ -32,7 +32,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["sodas", "polecon"]
+projects = ["sodas", "polecon", "HHPOLITICS"]
 
 # Links (optional).
 url_journal = "https://scholar.harvard.edu/files/jmarshall/files/unemployment_and_networks_v10.pdf"

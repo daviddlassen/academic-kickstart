@@ -1,6 +1,6 @@
 +++
 title = "Liquidity Constraint Tightness and Consumer Responses to Fiscal Stimulus Policy"
-date = "2016-03-07"
+date = "2018-05-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Claus Thustrup Kreiner", "David D. Lassen", "Søren Leth-Petersen"]
@@ -36,7 +36,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "http://www.econ.ku.dk/leth/Papers/2016-03-14/SP_March2016_web.pdf"
+url_preprint = "http://www.econ.ku.dk/leth/Papers/2018-05-03/SP_v62.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -47,7 +47,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Electronic Appendix", url = "http://www.econ.ku.dk/leth/Papers/2016-03-14/SP_ElectronicAppendix.pdf"}]
+url_custom = [{name = "Electronic Appendix", url = "http://www.econ.ku.dk/leth/Papers/2018-05-03/SP_ElectronicAppendix%20May%202018.pdf"}]
 
 # Does the content use math formatting?
 math = true
