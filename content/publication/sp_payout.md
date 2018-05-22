@@ -14,11 +14,11 @@ authors = ["Claus Thustrup Kreiner", "David D. Lassen", "Søren Leth-Petersen"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "2nd R&R, *American Economic Journal - Economic Policy*"
-publication_short = "2nd R&R, *AEJ - EcPol*"
+publication = "*American Economic Journal - Economic Policy*, forthcoming"
+#publication_short = "*AEJ - EcPol*"
 
 # Abstract and optional shortened version.
 abstract = "The marginal interest rate is the rate of interest at which a household can access additional liquidity. Consumption theory posits that variation in marginal interest rates across consumers predicts differences in the propensity to spend a stimulus payment. We test this hypothesis directly in the context of a Danish 2009 stimulus policy that transformed illiquid pension wealth into liquid wealth. We use administrative records with account level information about loans and deposits to derive a household level measure of the marginal interest rate and merge this with survey data collected specifically to measure the spending response to the stimulus policy. The data reveal substantial variation in marginal interest rates across consumers, and these interest rates predict spending responses."

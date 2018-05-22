@@ -36,7 +36,7 @@ projects = ["HHPOLITICS"]
 
 # Links (optional).
 url_journal = ""
-url_preprint = ""
+url_preprint = "files/Hariri_Lassen_next_to_final_POQ.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
