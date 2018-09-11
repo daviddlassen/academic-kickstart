@@ -1,6 +1,6 @@
 +++
 title = "The Effect of Income and Unemployment Shocks on Political Preferences"
-date = "2018-02-14"
+date = "2018-08-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["James E. Alt", "Sebastian Barfort", "David D. Lassen"]
@@ -17,11 +17,11 @@ authors = ["James E. Alt", "Sebastian Barfort", "David D. Lassen"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Manuscript"
+publication = "Submitted"
 # publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Individuals’ political preferences are the result of a combination of self-interest and beliefs about how the world works. While it is broadly accepted that expectations about social mobility in the long-run can affect political preferences today, much less is known about how voters update their preferences when reality does not match expectations. The goal of this paper is to understand the dynamics of political preferences over redistribution as new information about individual voters’ economic circumstances and experiences arrives in the form of unanticipated shocks to two key determinants of individual welfare: employment and income. We elicit and validate subjective probabilistic expectations over future employment and incomes in the short term and construct measures of anticipated and unanticipated shocks comparing expectations with realized outcomes, measured from third party reports, in a large Danish panel. Our main result, based on fixed effects specifications allowing for interpersonal differences in expectations formation and ability, is that unanticipated economic shocks affect preferences, while anticipated shocks do not. In particular, unanticipated unemployment shocks increase support for unemployment benefits and for voting against incumbent parties, while realizing expected unemployment has no effects. Unanticipated negative income shocks cause voters to diverge, with pro-market voters moving further to the right as a consequence of negative shocks, while anticipated changes have no effect."
+abstract = "We estimate the dynamics of political preferences over social insurance and redistribution when people receive new information about their individual economic situation and prospects in the form of unanticipated shocks to two key determinants of individual welfare: employment and income. While it is broadly accepted that expectations about social mobility in the long-run affect current political preferences, much less is known about the consequences for political preferences of a key dynamic of economic life: when realized outcomes do not match prior expectations at the individual level. We elicit and validate subjective probabilistic expectations over future employment and incomes in the short term and construct measures of anticipated and unanticipated shocks comparing expectations with realized outcomes, measured from third party administrative data, in a large Danish panel. Our main result, based on fixed effects specifications allowing for interpersonal differences in expectations formation and ability, is that unanticipated economic shocks affect political preferences, while anticipated changes do not. In particular, unanticipated unemployment shocks increase support for unemployment benefits, while realizing expected unemployment has no effects. Unanticipated negative income shocks cause citizens to polarize in their views on redistribution depending on prior beliefs, while anticipated income changes have no effect."
 
 # Featured image thumbnail (optional)
 image_preview = ""

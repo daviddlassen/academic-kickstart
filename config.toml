@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
   address = "35.2.22, CSS, University of Copenhagen"
   office_hours = ""
   phone = "+45 3532 4412"
-  skype = "daviddreyerlassen"
+  skype = "david.dreyer.lassen"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -243,6 +243,13 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
+
+
+[[menu.main]]
+  name = "CV"
+  url = "files/ddl_cv_sept_2018.pdf"
+  weight = 2.5
+
 
 [[menu.main]]
     name = "Current research"

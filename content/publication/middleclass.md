@@ -1,6 +1,6 @@
 +++
 title = "Middle Class without a Net: Savings, Financial Fragility and Preferences over Social Insurance"
-date = "2017-12-08"
+date = "2018-08-17"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob G. Hariri", "Amalie Jensen", "David D. Lassen"]
@@ -21,7 +21,7 @@ publication = "Working Paper, presented at APSA, EPSA, submitted"
 publication_short = "Working Paper, submitted"
 
 # Abstract and optional shortened version.
-abstract = "In this paper, we argue that liquidity constraints are a strong determinant of individual social policy preferences. People who are liquidity constrained, due to, e.g., limited savings or access to credit, demand increased social insurance because they are unable to smooth consumption when faced with temporary economic shocks. Because liquidity constraints are prevalent across the income distribution, we show that self-interested support for the welfare state also exists among the wealthy. Our main analyses rely on detailed administrative and survey data from Denmark, and the core results are supported by cross-country analyses of data from the European Social Survey. Additional results based on individual historical savings patterns suggest that both permanent traits governing savings decisions and unexpected economic shocks matter for the manifestation of liquidity constraints in political preferences."
+abstract = "In this paper, we show that it is important to distinguish between liquid and illiquid wealth in order to understand how voters form preferences towards social insurance. Many households have high income and high total wealth, but low holdings of accessible or liquid savings. Since it is costly to extract illiquid wealth, consumption for these households potentially drops substantially in case of a temporary shock to income, for instance from being laid off. We hypothesize and show empirically that this implies that a substantial group of voters show strong support for social insurance policies despite being wealthy in terms of home equity and income, because of their limited ability to self-insure through own savings in case of an income shock. Our empirical analysis is based on a novel dataset from Denmark combining administrative data with high-quality measures of individual financial assets and survey measures of political preferences. Using data for other countries from the European Social Survey, we find evidence that our results hold more generally and are not specific to the Danish context."
 
 # Featured image thumbnail (optional)
 image_preview = ""
