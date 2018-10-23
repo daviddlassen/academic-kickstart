@@ -1,9 +1,9 @@
 +++
-title = "Fiscal Consolidations in Advanced Industrialized Democracies: Economics, Politics, and Governance"
-date = "2010-01-01"
+title = "Vold mod offentligt ansatte"
+date = "2008-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["David D. Lassen"]
+authors = ["Peter Kruize", "David W. M. Sorenson", "David Dreyer Lassen"]
 
 # Publication type.
 # Legend:
@@ -14,11 +14,11 @@ authors = ["David D. Lassen"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
-publication = "Report to the *Swedish Fiscal Policy Council* 2010/4"
-# publication_short = "*JLEO*"
+publication = "University Press Denmark"
+# publication_short = "*EPJ: Data Science*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -32,10 +32,10 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["polecon"]
+# projects = ["sodas"]
 
 # Links (optional).
-url_pdf = "http://www.finanspolitiskaradet.se/download/18.6c09f59d1287ef288f9800077952/100527_4_Dreyer_Lassen.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -43,11 +43,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "http://www.universitypress.dk/shop/vold-mod-offentligt-1533p.html"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Journal page", url = "https://link.springer.com/article/10.2307/30036021"}]
+# url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1706.09245"}]
 
 # Does the content use math formatting?
 math = true

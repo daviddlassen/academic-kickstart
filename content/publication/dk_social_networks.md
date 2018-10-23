@@ -17,8 +17,8 @@ authors = ["James E. Alt", "Amalie Jensen", "Horacio A. Larreguy", "David D. Las
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "R&R *American Political Science Review*"
-publication_short = "R&R, *Am. Pol. Sci. Rev.*"
+publication = "Manuscript"
+# publication_short = "R&R, *Am. Pol. Sci. Rev.*"
 
 # Abstract and optional shortened version.
 abstract = "While it is widely believed that social pressure influences voters, there is little solid evidence that information transmitted through networks affects voter beliefs, policy preferences, and behavior. We investigate this function of networks with respect to unemployment shocks in post-financial crisis Denmark, where we link panel surveys to rich administrative data covering the entire population. Mapping each respondent’s educational, familial, and vocational ties, we find that unemployment shocks afflicting second-degree connections in other municipalities — individuals that a voter interacts with indirectly — increase a voters’ self-assessed risk of becoming unemployed, perception of the national unemployment rate, support for unemployment insurance, and probability of voting for left-wing political parties. Voters’ own unemployment concerns and political preferences respond primarily to unemployment shocks afflicting second-degree connections in similar industries, whereas voters update about national aggregates from all shocks equally. This implies that political preferences driven by information transmitted through weak ties principally reflect self-interested — rather than sociotropic — motives."
@@ -47,7 +47,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "polecon", url = 'project/polecon.md'}]
 
 # Does the content use math formatting?
 math = true
