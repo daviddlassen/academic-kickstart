@@ -17,7 +17,7 @@ authors = ["James E. Alt", "Sebastian Barfort", "David D. Lassen"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
+publication = "Manuscript"
 # publication_short = ""
 
 # Abstract and optional shortened version.
