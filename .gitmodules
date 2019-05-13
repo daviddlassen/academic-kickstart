@@ -3,7 +3,7 @@
 	url = https://github.com/gcushen/hugo-academic.git
 [submodule "public"]
 	path = public
-	url = https://github.com/daviddlassen/daviddlassen.github.io.git
+	url = https://github.com/daviddlassen/daviddlassen.github.io.git/public
 	branch = master
 [submodule "daviddlassen.github.io"]
 	path = daviddlassen.github.io

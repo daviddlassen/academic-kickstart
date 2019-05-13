@@ -8,7 +8,7 @@ date: "2019-05-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Stirred and shaken - interdisciplinary social science
   focal_point: Smart
 
 links:

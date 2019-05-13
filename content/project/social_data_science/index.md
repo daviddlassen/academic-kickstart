@@ -8,7 +8,7 @@ date: "2019-05-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Stirred, not shaken
+  caption: Screenshot from Social Data Science 2018
   focal_point: Smart
 
 links:
