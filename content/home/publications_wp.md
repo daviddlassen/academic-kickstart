@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 35  # Order that this section will appear.
 
-title = "Recent work"
+title = "Recent Working Papers and work-in-progress"
 subtitle = ""
 
 [content]
@@ -27,8 +27,8 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
-    exclude_featured = false
+    publication_type = "3"
+    exclude_featured = true
 
 [design]
   # Toggle between the various page layout types.
@@ -67,7 +67,7 @@ subtitle = ""
 
 
 # {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+# Quickly discover relevant content by [filtering publications]({{< ref "/publication_wp/_index.md" >}}).
 # {{% /alert %}}
 
 +++

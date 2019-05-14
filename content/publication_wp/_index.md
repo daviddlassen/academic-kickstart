@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Recent Working Papers and work-in-progress
 
 # View.
 #   1 = List
