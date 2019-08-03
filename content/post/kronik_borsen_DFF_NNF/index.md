@@ -1,11 +1,11 @@
 +++
-title = "Flere penge til forskningen"
-subtitle = "Kronik i Berlingske"
+title = "Hvem træder til, når regeringen ikke styrker dansk forskning?"
+subtitle = "Debatindlæg i Børsen"
 
 # Add a summary to display on homepage (optional).
 summary = ""
 
-date = 2019-04-10T16:57:12+02:00
+date = 2019-06-14T16:57:12+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -37,6 +37,6 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-Kronik i [Berlingske](https://b.dk) 10. april 2019 (med Mogens Høgh Jensen og Lars Arge, [det Kgl. Danske Videnskabernes Selskab](https://www.royalacademy.dk/), og Jens Kehlet Nørskov og Søren Peter Olesen, [Danmarks Grundforskningsfond](https://dg.dk))  
+Debatindlæg i [Børsen](https://www.borsen.dk) 14. juni 2019 (med Birgitte Nauntofte, [Novo Nordisk Fonden](https://novonordiskfonden.dk/da/))  
 
-Læs den [her](https://www.berlingske.dk/kronikker/flere-penge-til-forskningen-eller-vi-svigter-den-naeste-bohr-eller) ($$)
+Læs den [her](https://borsen.dk/nyheder/opinion/artikel/11/227364/artikel.html) ($$)

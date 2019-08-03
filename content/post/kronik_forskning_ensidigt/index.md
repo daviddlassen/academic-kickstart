@@ -1,11 +1,11 @@
 +++
-title = "Flere penge til forskningen"
-subtitle = "Kronik i Berlingske"
+title = "Dansk forskning risikerer at skride, hvis vi fokuserer for ensidigt"
+subtitle = "Kommentar i Berlingske"
 
 # Add a summary to display on homepage (optional).
 summary = ""
 
-date = 2019-04-10T16:57:12+02:00
+date = 2019-07-03T16:57:12+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -37,6 +37,6 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
-Kronik i [Berlingske](https://b.dk) 10. april 2019 (med Mogens Høgh Jensen og Lars Arge, [det Kgl. Danske Videnskabernes Selskab](https://www.royalacademy.dk/), og Jens Kehlet Nørskov og Søren Peter Olesen, [Danmarks Grundforskningsfond](https://dg.dk))  
+Kommentar i [Berlingske](https://b.dk) 3. juli 2019 (med Mads Eriksen, [Dansk Erhverv](https://www.danskerhverv.dk))  
 
-Læs den [her](https://www.berlingske.dk/kronikker/flere-penge-til-forskningen-eller-vi-svigter-den-naeste-bohr-eller) ($$)
+Læs den [her](https://www.berlingske.dk/kommentarer/dansk-forskning-risikerer-at-skride-hvis-vi-fokuserer-for-ensidigt)

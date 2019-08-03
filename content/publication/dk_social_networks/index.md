@@ -17,11 +17,12 @@ authors: ["James E. Alt", "Amalie Jensen", "Horacio A. Larreguy", "David D. Lass
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "Manuscript"
+publication: "R&R, Journal of Politics"
 # publication_short = ""
 
 # Abstract and optional shortened version.
-abstract: While social pressure between close network ties is widely believed to influence voters, evidence that information passed between weak ties affects beliefs, policy preferences, and behavior is limited. We investigate such information diffusion by examining whether weak ties relay information about unemployment shocks in Denmark. We link surveys with rich population-level administrative data to overcome several difficulties of identifying causal effects. Mapping each respondent’s familial, vocational, and educational ties, we find that unemployment shocks afflicting second-degree weak ties — individuals that voters interact with indirectly — increase a voter’s self-assessed risk of becoming unemployed, perception of the national unemployment rate, support for unemployment insurance, and voting for left-wing political parties. Voters update about national aggregates from all shocks equally, whereas subjective perceptions and preferences respond primarily to unemployment shocks afflicting second-degree weak ties in similar industries. This implies that political preferences driven by information transmitted through weak ties principally reflect individual insurance — rather than sociotropic — motives.
+abstract: "While social pressure between close network ties is widely believed to influence voters, evidence that information passed between weak ties affects beliefs, policy preferences, and behavior is limited. We investigate such information diffusion by examining whether weak ties relay information about unemployment shocks in Denmark. We link surveys with rich population-level administrative data to overcome several difficulties of identifying causal effects. Mapping each respondent’s familial, vocational, and educational ties, we find that unemployment shocks afflicting second-degree weak ties —- individuals that voters interact with indirectly -— increase a voter’s self-assessed risk of becoming unemployed, perception of the national unemployment rate, support for unemployment insurance, and voting for left-wing political parties. Voters update about national aggregates from all shocks equally, whereas subjective perceptions and preferences respond primarily to unemployment shocks afflicting second-degree weak ties in similar industries. This implies that political preferences driven by information
+transmitted through weak ties principally reflect individual insurance -- rather than sociotropic -- motives."
 
 # Featured image thumbnail (optional)
 # image_preview = "socnet_thumb.png"
@@ -37,12 +38,12 @@ featured: false
 
 # Links (optional).
 # url_journal = "https://scholar.harvard.edu/files/jmarshall/files/unemployment_and_networks_v10.pdf"
-# url_preprint = "https://scholar.harvard.edu/files/jmarshall/files/unemployment_and_networks_v13.pdf"
+# url_preprint = "https://static1.squarespace.com/static/5b74a2ebfcf7fda680a56b29/t/5cdadcee104c7bfec9476a19/1557847279052/SocialNetworks.pdf"
 links:
-- name: Preprint
-  url: https://scholar.harvard.edu/files/jmarshall/files/unemployment_and_networks_v13.pdf
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
-# url_code: '#'
+#- name: Custom Link
+#  url: http://example.org
+url_pdf: https://static1.squarespace.com/static/5b74a2ebfcf7fda680a56b29/t/5cdadcee104c7bfec9476a19/1557847279052/SocialNetworks.pdf
+#url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
