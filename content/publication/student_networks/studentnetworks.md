@@ -17,8 +17,8 @@ authors = ["Valentin Kassarnig", "Enys Mones", "Andreas Bjerre-Nielsen", "Piotr 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*European Physics Journal: Data Science*"
-# publication_short = "*EPJ: Data Science*"
+publication = "*EPJ-Data Science*"
+# publication_short = "*EPJ-Data Science*"
 
 # Abstract and optional shortened version.
 abstract = "Identifying the factors which influence academic performance is an essential part of educational research. Previous studies have documented the importance of personality traits, class attendance, and social network structure. However, because most of these analyses were based on a single behavioral aspect and/or small sample sizes, we lack a quantification of the interplay of these factors. Here, we infer the academic performance among a cohort of almost 1,000 freshmen based on data collected through smartphones, which the students used as their primary phone for two years. The availability of multi-channel data from a single population allows us to directly compare the predictive power of individual and social characteristics. We find that a student's performance is best inferred from their social ties. Network indicators out-perform models based on individual characteristics. We confirm earlier findings indicating that class attendance is the most important predictor among the individual characteristics. Finally, our results indicates potential presence of strong homophily and/or peer effects among university students."
