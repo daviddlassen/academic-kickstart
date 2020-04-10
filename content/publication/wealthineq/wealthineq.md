@@ -17,7 +17,7 @@ authors = ["Thomas Epper", "Ernst Fehr", "Helga Fehr-Duda", "Claus Thustrup Krei
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*American Economic Review* 110(4), 1177-1205"
+publication = "[*American Economic Review* 110(4), 1177-1205](https://www.aeaweb.org/articles?id=10.1257/aer.20181096&&from=f)"
 #publication_short = "*AER*"
 
 # Abstract and optional shortened version.
@@ -35,7 +35,7 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://www.aeaweb.org/articles?id=10.1257/aer.20181096&&from=f"
+url_pdf = ""
 url_preprint = "https://www.econ.ku.dk/cebi/publikationer/working-papers/CEBI_WP_08-19.pdf"
 url_code = ""
 url_dataset = ""

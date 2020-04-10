@@ -1,6 +1,6 @@
 +++
 title = "Irresponsible Parties, Responsible Voters? Legislative Gridlock and Collective Accountability"
-date = "2018-02-28"
+date = "2020-03-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Asger L. Andersen", "David D. Lassen", "Lasse Holbøll Westh Nielsen"]
@@ -14,10 +14,10 @@ authors = ["Asger L. Andersen", "David D. Lassen", "Lasse Holbøll Westh Nielsen
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Manuscript, submitted"
+publication = "[*PLOS One*](https://doi.org/10.1371/journal.pone.0229789)"
 # publication_short = ""
 
 # Abstract and optional shortened version.
@@ -35,7 +35,7 @@ selected = false
 projects = ["polecon"]
 
 # Links (optional).
-url_pdf = "files/Irresponsible_Parties_February_2018.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""

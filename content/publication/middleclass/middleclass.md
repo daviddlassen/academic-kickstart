@@ -1,6 +1,6 @@
 +++
 title = "Middle Class without a Net: Savings, Financial Fragility and Preferences over Social Insurance"
-date = "2019-10-15"
+date = "2020-03-31"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jacob G. Hariri", "Amalie Jensen", "David D. Lassen"]
@@ -17,7 +17,7 @@ authors = ["Jacob G. Hariri", "Amalie Jensen", "David D. Lassen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "[*Comparative Political Studies*](https://journals.sagepub.com/doi/10.1177/0010414019879718), forthcoming"
+publication = "[*Comparative Political Studies*](https://journals.sagepub.com/doi/10.1177/0010414019879718) 53(6), 892-922"
 # publication_short = "Working Paper, submitted"
 
 # Abstract and optional shortened version.
