@@ -1,6 +1,6 @@
 +++
 title = "Time Discounting and Wealth Inequality"
-date = "2019-12-31"
+date = "2020-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Thomas Epper", "Ernst Fehr", "Helga Fehr-Duda", "Claus Thustrup Kreiner", "David D. Lassen", "Søren Leth-Petersen", "Gregers Nytoft-Rasmussen"]
@@ -17,7 +17,7 @@ authors = ["Thomas Epper", "Ernst Fehr", "Helga Fehr-Duda", "Claus Thustrup Krei
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*American Economic Review*, forthcoming"
+publication = "*American Economic Review* 110(4), 1177-1205"
 #publication_short = "*AER*"
 
 # Abstract and optional shortened version.
@@ -35,8 +35,8 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://www.econ.ku.dk/cebi/publikationer/working-papers/CEBI_WP_08-19.pdf"
-url_preprint = ""
+url_pdf = "https://www.aeaweb.org/articles?id=10.1257/aer.20181096&&from=f"
+url_preprint = "https://www.econ.ku.dk/cebi/publikationer/working-papers/CEBI_WP_08-19.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""

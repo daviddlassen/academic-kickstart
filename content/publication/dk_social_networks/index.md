@@ -17,7 +17,7 @@ authors: ["James E. Alt", "Amalie Jensen", "Horacio A. Larreguy", "David D. Lass
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "R&R, Journal of Politics"
+publication: "R&R, *Journal of Politics*"
 # publication_short = ""
 
 # Abstract and optional shortened version.
