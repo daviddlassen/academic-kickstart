@@ -17,7 +17,7 @@ authors = ["Andreas Bjerre-Nielsen", "Asger Andersen", "Kelton Minor", "David D.
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "[*Psychological Science* forthcoming](https://www.aeaweb.org/articles?id=10.1257/aer.20181096&&from=f)"
+publication = "*Psychological Science* forthcoming"
 # publication_short = ""
 
 # Abstract and optional shortened version.
