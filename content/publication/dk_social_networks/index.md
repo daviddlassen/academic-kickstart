@@ -1,6 +1,6 @@
 ---
 title: "Contagious political concerns: How unemployment information passed between weak ties influences Danish voters"
-date: "2019-05-14"
+date: "2020-05-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors: ["James E. Alt", "Amalie Jensen", "Horacio A. Larreguy", "David D. Lassen", "John Marshall"]
@@ -17,12 +17,11 @@ authors: ["James E. Alt", "Amalie Jensen", "Horacio A. Larreguy", "David D. Lass
 publication_types: ["3"]
 
 # Publication name and optional abbreviated version.
-publication: "R&R, *Journal of Politics*"
+publication: "*Journal of Politics*, forthcoming"
 # publication_short = ""
 
 # Abstract and optional shortened version.
-abstract: "While social pressure between close network ties is widely believed to influence voters, evidence that information passed between weak ties affects beliefs, policy preferences, and behavior is limited. We investigate such information diffusion by examining whether weak ties relay information about unemployment shocks in Denmark. We link surveys with rich population-level administrative data to overcome several difficulties of identifying causal effects. Mapping each respondent’s familial, vocational, and educational ties, we find that unemployment shocks afflicting second-degree weak ties —- individuals that voters interact with indirectly -— increase a voter’s self-assessed risk of becoming unemployed, perception of the national unemployment rate, support for unemployment insurance, and voting for left-wing political parties. Voters update about national aggregates from all shocks equally, whereas subjective perceptions and preferences respond primarily to unemployment shocks afflicting second-degree weak ties in similar industries. This implies that political preferences driven by information
-transmitted through weak ties principally reflect individual insurance -- rather than sociotropic -- motives."
+abstract: "While social pressure is widely believed to influence voters, evidence that information passed between social ties affects beliefs, policy preferences, and voting behavior is limited. We investigate whether information about unemployment shocks diffuses through networks of strong and mostly weak social ties and influences voters in Denmark. We link surveys with population-level administrative data that logs unemployment shocks afflicting respondents’ familial, vocational, and educational networks.Our results show that the share of second-degree social ties—individuals that voters learn about indirectly—that became unemployed within the last year increases a voter’s perception of national unemployment, self-assessed risk of becoming unemployed, support for unemployment insurance, and voting for left-wing political parties. Voters’ beliefs about national aggregates respond to all shocks equally, whereas subjective perceptions and preferences respond primarily to unemployment shocks afflicting second-degree ties in similar vocations. This suggests that information diffusion through social ties principally affects political preferences via egotropic—rather than sociotropic—motives."
 
 # Featured image thumbnail (optional)
 # image_preview = "socnet_thumb.png"
@@ -42,7 +41,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://static1.squarespace.com/static/5b74a2ebfcf7fda680a56b29/t/5cdadcee104c7bfec9476a19/1557847279052/SocialNetworks.pdf
+url_pdf: https://scholar.harvard.edu/files/jmarshall/files/unemployment_and_networks_v16.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

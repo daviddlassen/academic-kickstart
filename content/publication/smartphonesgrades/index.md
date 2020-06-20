@@ -1,6 +1,6 @@
 +++
-title = "By Our Own Devices: Smartphone Use and Academic Performance"
-date = "2019-08-20"
+title = "The negative effect of smartphone use on academic performance may be overestimated: evidence from a two-year panel study"
+date = "2020-05-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Andreas Bjerre-Nielsen", "Asger Andersen", "Kelton Minor", "David D. Lassen"]
@@ -14,14 +14,14 @@ authors = ["Andreas Bjerre-Nielsen", "Asger Andersen", "Kelton Minor", "David D.
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Revise-and-resubmit"
+publication = "[*Psychological Science* forthcoming](https://www.aeaweb.org/articles?id=10.1257/aer.20181096&&from=f)"
 # publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This study monitored 458 university students' smartphone usage over two years to assess the relationship between in-class smartphone use and academic performance. We utilize a novel dataset where screentime was recorded continuously across multiple courses, allowing us to examine the link between students' smartphone use and grade at the individual level and the individual-in-course level. In an initial cross-sectional analysis, we find that students’ average in-class smartphone use is negatively related to their GPA, controlling for high school performance and salient individual characteristics. However, this relationship does not persist in a panel model with individual-in-course level observations where we include fixed effects for both students and classes. We conclude that cross-sectional models likely overestimate the effect of smartphone usage on grades due to unobserved individual and course traits. This suggests that researchers should not interpret even very well-controlled correlations between smartphone usage and academic performance as causal relations."
+abstract = "This study monitored 470 university students' smartphone usage continuously over two years to assess the relationship between in-class smartphone use and academic performance. We utilize a novel dataset where smartphone use and grades were recorded across multiple courses, allowing us to examine this relationship at the student level and the student-in-course level. In accordance with the existing literature, we find that students’ in-class smartphone use is negatively associated to their grades, even when controlling for a broad range of observed student characteristics. However, the magnitude of the association decreases substantially in a fixed effects model, which leverages the panel structure of the data to control for all stable student and course characteristics, including those not observed by researchers. This suggests that the size of the effect of smartphone usage on academic performance is overestimated by studies that only control for observed student characteristics."
 
 # Featured image thumbnail (optional)
 image_preview = ""
