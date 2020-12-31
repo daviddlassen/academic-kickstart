@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Director<br>  [Center for Social Data Science](https://sodas.ku.dk)<br><br>
+role: Prorector<br>  Research and Innovation<br>\&<br>
           Professor of Economics
 
 # Organizations/Affiliations
@@ -67,7 +67,6 @@ email: ""
 # - Researchers
 # - Visitors
 ---
+I am provost, from Jan 1 2021, for research and innovation at the [University of Copenhagen](http://www.ku.dk). Before this I was the founding director, 2016-20, of the [Copenhagen Center for Social Data Science (SODAS)](http://sodas.ku.dk), co-deputy director of the [Center for Economic Behavior and Inequality (CEBI)](http://www.econ.ku.dk/cebi/) established in 2017 through a grant from the [the Danish National Research Foundation](http://www.dg.dk), and co-founder of the [M.Sc. in Social Data Science](https://studies.ku.dk/masters/social-data-science/). In 2019-20, I chaired the [Independent Research Fund Denmark (DFF)](https://dff.dk/en/front-page?set_language=en). I continue to be professor of [economics](http://www.econ.ku.dk/) and was recently appointed to be member of the Danish government's [Commission for 2nd generation reforms](https://fm.dk/nyheder/nyhedsarkiv/2020/oktober/ny-kommission-skal-saette-fremtidens-reformkurs/) 2020-22.
 
-I am the founding director, since 2016, of the [Copenhagen Center for Social Data Science (SODAS)](http://sodas.ku.dk). I am also professor of [economics](http://www.econ.ku.dk/) at the [University of Copenhagen](http://www.ku.dk) and co-deputy director of the [Center for Economic Behavior and Inequality (CEBI)](http://www.econ.ku.dk/cebi/), established in 2017 through a grant from [the Danish National Research Foundation](http://www.dg.dk).
-
-I am the Chair of the [Independent Research Fund Denmark (DFF)](https://dff.dk/en/front-page?set_language=en), and was a member of the 2017-8 Committee for Better University Education ([Udvalget for bedre universitetsuddannelser](https://ufm.dk/uddannelse/rad-naevn-og-udvalg/udvalg-om-bedre-universitetsuddannelser)). I have received a Sapere Aude Research Leader grant (2011-5), an ERC CoG (2013-7), and a [2016 Elite Researcher Award from the Danish Ministry of Education and Research](https://ufm.dk/forskning-og-innovation/forskningsformidling/eliteforsk/prismodtagere/prismodtagere-2016). I am, from 01/2020, co-PI in [DISTRACT](https://sodas.ku.dk/projects/distract/), an ERC-Advanced Grant project led by [Morten Axel Pedersen](https://anthropology.ku.dk/staff/professor-and-associate-professor/?pure=en/persons/255694), and, most recently, received an inaugural [Villum Synergy Grant](https://veluxfoundations.dk/da/content/synergy-ser-dagens-lys-bevillinger-til-tvaerfaglig-forskning) jointly with [Sune Lehmann](https://sunelehmann.com).
+I have received a Sapere Aude Research Leader grant (2011-5), an ERC CoG (2013-7), and a [2016 Elite Researcher Award from the Danish Ministry of Education and Research](https://ufm.dk/forskning-og-innovation/forskningsformidling/eliteforsk/prismodtagere/prismodtagere-2016). I am, from 01/2020, co-PI in [DISTRACT](https://sodas.ku.dk/projects/distract/), an ERC-Advanced Grant project on digital distraction led by [Morten Axel Pedersen](https://anthropology.ku.dk/staff/professor-and-associate-professor/?pure=en/persons/255694), and, most recently, received an inaugural [Villum Synergy Grant](https://veluxfoundations.dk/da/content/synergy-ser-dagens-lys-bevillinger-til-tvaerfaglig-forskning) -- on predicting life trajectories from massive data -- jointly with [Sune Lehmann](https://sunelehmann.com).
